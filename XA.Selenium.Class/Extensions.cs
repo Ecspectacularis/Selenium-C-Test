@@ -9,7 +9,7 @@ namespace XA.Selenium
         {
             string result;
 
-            using (StreamReader reader = new StreamReader(@"C:\Users\CezaryW\Documents\Workspace\Selenium\XA.Selenium\XA.Selenium.Data\TestUrls.json"))
+            using (StreamReader reader = new StreamReader("path")
             {
                 result = reader.ReadToEnd();
             }
