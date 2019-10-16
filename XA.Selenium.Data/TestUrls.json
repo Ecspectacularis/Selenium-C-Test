@@ -1,0 +1,9 @@
+﻿{
+  "XaImporterUrl": "https://xaadex3sytrg3pzz-stg.cludo.pl/Cumulus/Importer.Web/Import/Import",
+  "MyStore": "http://automationpractice.com/index.php",
+  "WDU": "http://webdriveruniversity.com/Ajax-Loader/index.html",
+  "LoginPortal": "http://webdriveruniversity.com/Login-Portal/index.html",
+  "ClickButton": "http://webdriveruniversity.com/Click-Buttons/index.html",
+  "ToDoList": "http://webdriveruniversity.com/To-Do-List/index.html",
+  "PageObjectModel": "http://webdriveruniversity.com/Page-Object-Model/index.html"
+}
